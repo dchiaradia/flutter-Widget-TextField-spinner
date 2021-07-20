@@ -33,11 +33,11 @@ import  'Widgets/textFieldSpinner.dart';
 			}
 		)
 
-  
+
 
 ## ScreenShots
 
-![enter image description here](https://github.com/dchiaradia/futter-getx-sampleFirstProject/blob/main/assets/screenshot/ScreenShot-001.png?raw=true)
+![enter image description here](https://github.com/dchiaradia/flutter-Widget-TextField-spinner/blob/main/Screenshot/Screenshot_1626791557.png?raw=true)
 
   
   
