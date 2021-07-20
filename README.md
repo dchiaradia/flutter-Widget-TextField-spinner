@@ -23,12 +23,12 @@ import  'Widgets/textFieldSpinner.dart';
 		    size: 32, 
 		    color: Colors.red,
 		 ),
-		 addIcon: const  Icon( 
+	    addIcon: const  Icon( 
 			 Icons.add_circle, 
 			 size: 32, 
 			 color: Colors.green,
 		), 
-		onChange: (id, e) {
+	    onChange: (id, e) {
 			print('id:: $id - cont: $e');
 			}
 		)
